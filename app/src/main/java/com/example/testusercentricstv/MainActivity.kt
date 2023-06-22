@@ -38,7 +38,7 @@ class MainActivity : Activity() {
 
     private fun initUserCentrics() {
 
-        val options = UsercentricsOptions(settingsId = "jDc-I_sCxAwZkf")
+        val options = UsercentricsOptions(settingsId = "sdx6T74U0BL_sn")
 
         Log.d("TestUserCentrics", "Start Init User Centrics")
         Usercentrics.initialize(this, options)
