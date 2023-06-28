@@ -5,8 +5,8 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Button
 import com.usercentrics.sdk.Usercentrics
-import com.usercentrics.sdk.UsercentricsBanner
 import com.usercentrics.sdk.UsercentricsOptions
+import com.usercentrics.sdk.ui.tv.UsercentricsBanner
 
 /**
  * Activity which init user centrics and display banners.
